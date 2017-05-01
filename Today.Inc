@@ -91,8 +91,10 @@ szTodayInfo         DB 13,10
                     DB 13,10
                     DB "Today Features & Usage:",13,10
                     DB " - Lists days of interest: national, commemorative, awareness or international observance days",13,10
-                    DB " - Change x64dbg title icon for specific days",13,10  
+                    DB " - Change x64dbg title and/or icon for specific days",13,10
+                    IFDEF TRAYBALLOON
                     ;DB " - Show tray icon and balloon notification to highlight specific day",13,10
+                    ENDIF
                     DB " - Option to allow icon change to persist whilst debugging (reverts to default icon otherwise)",13,10
                     DB 13,10,0
 

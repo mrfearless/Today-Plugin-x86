@@ -337,6 +337,7 @@ Menu=1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 271=,661,2,icons\_food\cupcake.ico
 272=,662,2,icons\_food\HotChocolate.ico
 273=,663,2,icons\_food\breakfast.ico
+274=,242,2,icons\_food\birthdaycake.ico
 [StringTable]
 [Accel]
 [VerInf]
@@ -425,7 +426,7 @@ ProductVer2Range=0
 ProductVer3Range=0
 ProductVer4Range=0
 [PTimer]
-PTimer=125530013
+PTimer=125819722
 [Collapse]
 2=
 7=
@@ -460,7 +461,7 @@ PTimer=125530013
 14=0,0,0,0,1
 16=0,0,0,0,4651
 15=0,0,0,0,0
-17=0,0,0,0,14378
+17=0,0,0,0,10600
 [GroupExpand]
 GroupExpand=1,1,1,0
 [BookMark]
